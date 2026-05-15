@@ -92,21 +92,6 @@
     "snippet": "<h2>Introduction</h2>\n<p>In an era of information overload, finding truly transformative insights requires discernment and depth. A recent presentation offers exactly that\u2014substantial ideas backed by ..."
   },
   {
-    "id": "The-Power-of-Present-Moment-Awareness",
-    "title": "The Power of Present-Moment Awareness",
-    "url": "articles/The-Power-of-Present-Moment-Awareness.html",
-    "channel": "Life.Church",
-    "topics": [
-      "present",
-      "moment",
-      "awareness",
-      "when",
-      "from"
-    ],
-    "date": "2023-10-15",
-    "snippet": "The Power of Present-Moment Awareness\n\nIn our fast-paced world filled with constant distractions and endless to-do lists, we often forget to simply be present. Yet this simple act of being fully..."
-  },
-  {
     "id": "Youre-Not-Alone-in-Feeling-Alone",
     "title": "You're Not Alone in Feeling Alone",
     "url": "articles/Youre-Not-Alone-in-Feeling-Alone.html",
@@ -120,5 +105,20 @@
     ],
     "date": "2023-10-15",
     "snippet": "You're Not Alone in Feeling Alone\n\nLoneliness is one of the most universal yet rarely discussed human experiences. It can visit us in crowded rooms, persist despite numerous connections, and linger..."
+  },
+  {
+    "id": "the-three-hidden-traps-keeping-you-stuck-and-how-to-escape-them",
+    "title": "The Three Hidden Traps Keeping You Stuck (And How to Escape Them)",
+    "url": "articles/the-three-hidden-traps-keeping-you-stuck-and-how-to-escape-them.html",
+    "channel": "Mel Robbins",
+    "topics": [
+      "decision trap",
+      "overthinking",
+      "hesitation",
+      "identity formation",
+      "5-4-3-2-1 technique"
+    ],
+    "date": "2026-05-14",
+    "snippet": "We often mistake stagnation for brokenness. When life feels immobile, we assume something is fundamentally wrong with us\u2014that we lack discipline, motivation, or capability. But what if the opposite is true? What if feeling stuck is actually proof that you're built for something greater than your current circumstances?"
   }
 ]
