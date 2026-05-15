@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "7-micro-habits-to-regulate-depression-or-trauma-shutdown-response",
     "title": "7 Micro Habits to Regulate Depression or Trauma (Shutdown Response)",
     "url": "articles/7-micro-habits-to-regulate-depression-or-trauma-shutdown-response.html",
@@ -75,5 +75,50 @@
     ],
     "date": "2026-05-11",
     "snippet": "Self-doubt affects nearly everyone at some point, but it doesn't have to be a permanent barrier to success. According to behavioral researcher Dr. Shade Zahrai, confidence isn't about eliminating doub..."
+  },
+  {
+    "id": "letting-go-of-loneliness",
+    "title": "Letting Go of Loneliness",
+    "url": "articles/letting-go-of-loneliness.html",
+    "channel": "Life.Church",
+    "topics": [
+      "evidence",
+      "presentation",
+      "theory",
+      "practice",
+      "ideas"
+    ],
+    "date": "2023-01-22",
+    "snippet": "<h2>Introduction</h2>\n<p>In an era of information overload, finding truly transformative insights requires discernment and depth. A recent presentation offers exactly that\u2014substantial ideas backed by ..."
+  },
+  {
+    "id": "The-Power-of-Present-Moment-Awareness",
+    "title": "The Power of Present-Moment Awareness",
+    "url": "articles/The-Power-of-Present-Moment-Awareness.html",
+    "channel": "Life.Church",
+    "topics": [
+      "present",
+      "moment",
+      "awareness",
+      "when",
+      "from"
+    ],
+    "date": "2023-10-15",
+    "snippet": "The Power of Present-Moment Awareness\n\nIn our fast-paced world filled with constant distractions and endless to-do lists, we often forget to simply be present. Yet this simple act of being fully..."
+  },
+  {
+    "id": "Youre-Not-Alone-in-Feeling-Alone",
+    "title": "You're Not Alone in Feeling Alone",
+    "url": "articles/Youre-Not-Alone-in-Feeling-Alone.html",
+    "channel": "Life.Church",
+    "topics": [
+      "loneliness",
+      "human",
+      "isolation",
+      "connection",
+      "not"
+    ],
+    "date": "2023-10-15",
+    "snippet": "You're Not Alone in Feeling Alone\n\nLoneliness is one of the most universal yet rarely discussed human experiences. It can visit us in crowded rooms, persist despite numerous connections, and linger..."
   }
 ]
